@@ -1,1 +1,1 @@
-Snowman game on Unity engine, using c++, movable character, later on a game where you have to collect balloons, while trying to dodge showballs shooting from cannons, that shoots randomly while still chasing you around. 
+Snowman game on Unity engine, movable character, later on a game where you have to collect balloons, while trying to dodge showballs shooting from cannons, that shoots randomly while still chasing you around. 
